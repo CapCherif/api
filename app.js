@@ -6,3 +6,10 @@ fetch('https://jsonplaceholder.typicode.com/posts/1')
   function Example(){
     console.log("example")
   }
+
+
+
+
+  function SecondFunction(){
+    console.log("second function")
+  }
